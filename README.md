@@ -50,6 +50,6 @@ Build a machine learning model that predicts the final price of residential home
 
 ---
 
-👨‍💻 **Author:** [Your Name]  
+👨‍💻 **Author:** [Mohamed Henaish]  
 📅 **Date:** June 2025
 
